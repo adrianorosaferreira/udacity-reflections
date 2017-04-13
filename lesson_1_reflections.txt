@@ -1,0 +1,15 @@
+
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+A comparação indica onde há diferença com isso eu posso atuar neste local para executar o que for conveniente eu executar para alcançar meu objetivo.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Ter um historico facilitará realizar regressoes desejadas quando algo der muito errado e que retornar a uma versão antiga me ajudará com mais eficiencia corrigir um problema
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+pros 
+- versoes em tamanhos adequados,
+- facilidade em retornar a um ponto alterado com mais facilidade
+- 
